@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tonn1Arm Purithada Hualraluek</h1>
+<h1 align="center">Hi 👋, I'm Tonn1Arm </h1>
 <h3 align="center">A passionate Competitive Programming from Thailand.</h3>
 
 - 🔭 I’m currently study in **Satit KKU**
